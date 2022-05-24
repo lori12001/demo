@@ -1,0 +1,166 @@
+[
+    {
+        "Id": 1,
+        "Name": "Nissan",
+        "Industry": "Automotive",
+        "Products": [
+            "Automobiles",
+            "luxury vehicles",
+            "commercial vehicles",
+            "outboard motors",
+            "forklift trucks"
+        ],
+        "Red_balance_sheet": false,
+        "Parent": "null",
+        "Details": {
+            "year_foundation": 1933,
+            "headquarter": "Yokohama",
+            "President": "Makoto Uchida"
+        },
+        "Car": {
+            "Id": 1,
+        "Name": "Nissan",
+        "Model": "GT-R R35",
+        "Price": 70000,
+        "Modified": false,
+        "Owner": "null",
+        "Features": {
+            "horsepower": [570, 600, 650],
+            "weight_in_kg": 1680,
+            "acceleration": 3.7,
+            "year": "2001",
+            "origin": "Japan"
+        }
+        }
+    },
+    {
+        "Id": 2,
+        "Name": "Lamborghini",
+        "Industry": "Automotive",
+        "Products": [
+            "Automobiles",
+            "luxury vehicles"
+        ],
+        "Red_balance_sheet": false,
+        "Parent": "null",
+        "Details": {
+            "year_foundation": 1963,
+            "headquarter": "Sant'Agata Bolognese",
+            "president": "Stephan Winkelmann"
+        },
+        "Car": {
+            "Id": 2,
+            "Name": "Lamborghini",
+            "Model": "Huracan",
+            "Price": 190000,
+            "Modified": false,
+            "Owner": "null",
+            "Features": {
+                "horsepower": [600, 640, 650],
+                "weight_in_kg": 1379,
+                "acceleration": 3.1,
+                "year": "2015",
+                "origin": "Italy"
+            }
+        }
+    },
+    {
+        "Id": 3,
+        "Name": "Fiat",
+        "Industry": "Automotive",
+        "Products": [
+            "Automobiles",
+            "luxury vehicles",
+            "commercial vehicles",
+            "outboard motors",
+            "forklift trucks"
+        ],
+        "Red_balance_sheet": false,
+        "Parent": "null",
+        "Details": {
+            "year_foundation": 1899,
+            "headquarter": "Turin",
+            "president": "John Elkann"
+        },
+        "Car": {
+            "Id": 3,
+            "Name": "Fiat",
+            "Model": "500 Abarth",
+            "Price": 15900,
+            "Modified": false,
+            "Owner": "null",
+            "Features": {
+                "horsepower": [135, 140, 150],
+                "weight_in_kg": 1120,
+                "acceleration": 7.3,
+                "year": "2010",
+                "origin": "Italy"
+        }
+        }
+    }, 
+    {
+        "Id": 4,
+        "Name": "Alfa Romeo",
+        "Industry": "Automotive",
+        "Products": [
+            "Automobiles",
+            "luxury vehicles",
+            "commercial vehicles",
+            "outboard motors"
+        ],
+        "Red_balance_sheet": false,
+        "Parent": "null",
+        "Details": {
+            "year_foundation": 1910,
+            "headquarter": "Turin",
+            "president": "Jean-Philippe Imparato"
+        },
+        "Car": {
+            "Id": 4,
+            "Name": "Alfa Romeo",
+            "Model": "Stelvio",
+            "Price": 54500,
+            "Modified": false,
+            "Owner": "null",
+            "Features": {
+                "horsepower": [160, 165, 170],
+                "weight_in_kg": 1679,
+                "acceleration": 7,
+                "year": "2016",
+                "origin": "Italy"
+        }
+        }
+    },
+    {
+        "Id": 5,
+        "Name": "Ford",
+        "Industry": "Automotive",
+        "Products": [
+            "Automobiles",
+            "luxury vehicles",
+            "commercial vehicles"
+        ],
+        "Red_balance_sheet": false,
+        "Parent": "null",
+        "Details": {
+            "year_foundation": 1910,
+            "headquarter": "Turin",
+            "president": "Jean-Philippe Imparato"
+        },
+        "Car": {
+            "Id": 5,
+            "Name": "Ford",
+            "Model": "Puma",
+            "Price": 25000,
+            "Modified": false,
+            "Owner": "null",
+            "Features": {
+                "horsepower": [140, 150, 160],
+                "weight_in_kg": 1550,
+                "acceleration": 8.4,
+                "year": "2019",
+                "origin": "USA"
+        }
+        }
+    }
+]
